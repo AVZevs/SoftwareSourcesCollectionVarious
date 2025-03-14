@@ -22,11 +22,11 @@
    как минимум этапы 2, 3, и 4 должны быть расположены в разных коммитах)
 
 ## Файлы (ссылки)
-1. Исходный код программы: [https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/Application/Program.cs](https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/Application/Program.cs "Исходный код программы")
+1. Исходный код программы: [https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/Application/Program.cs](https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/Application/Program.cs "Исходный код программы")
 
-2. Блок-схема программы (PNG): [https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/BlockSchema/blockschema.png](https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/BlockSchema/blockschema.png "Блок-схема программы (PNG)")
+2. Блок-схема программы (PNG): [https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/BlockSchema/blockschema.png](https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/BlockSchema/blockschema.png "Блок-схема программы (PNG)")
 
-3. Блок-схема программы (DrawIO в ZIP): [https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/BlockSchema/blockschema_drawio.zip](https://github.com/AVZevs/GBRu_BasicDev_ResultControlWork/blob/main/BlockSchema/blockschema_drawio.zip "Блок-схема программы (DrawIO в ZIP)")
+3. Блок-схема программы (DrawIO в ZIP): [https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/BlockSchema/blockschema_drawio.zip](https://github.com/AVZevs/SoftwareSourcesCollectionVarious/blob/main/C%23_sources/Level_zero/Arrays_with_Strings_01/BlockSchema/blockschema_drawio.zip "Блок-схема программы (DrawIO в ZIP)")
 
 
 ## Алгоритм работы программы
